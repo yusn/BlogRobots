@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content
+Allow: /wp-content/uploads
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: HaosouSpider
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Qwantify
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DeuSu
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
